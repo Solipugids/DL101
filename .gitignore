@@ -1,3 +1,5 @@
+# Big size files
+SmallDataSet/MNIST_images.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
